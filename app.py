@@ -142,4 +142,3 @@ if __name__ == "__main__":
     generate_crit_entries_btn.grid(row=2,column=0)
 
     root.mainloop()
-
