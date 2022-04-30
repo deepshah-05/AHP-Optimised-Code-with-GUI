@@ -1,5 +1,3 @@
-# Program to make a simple
-# login screen 
 import tkinter as tk
 from ahpy import ahpy
 import matplotlib.pyplot as plt
